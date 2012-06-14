@@ -3,6 +3,26 @@
 
 
 
+//object and json data (only have properties)
+
+var item = {
+	"itemNumber" : "01234",
+	"name" : "shirt",
+	"color" : "red",
+	"size" : "large",
+	
+};
+
+
+
+var checkOut = {
+	"name" : "Jane Smith", 
+	"address" : "123 Main Ave",
+	"city, state zip" : "Richmond, RI 02892",
+	"phone" : "401-444-1234",
+	"email" : "jane@yahoo.com",
+	
+}
 
 
 
